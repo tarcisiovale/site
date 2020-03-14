@@ -1,6 +1,1 @@
-echo "# site" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/tarcisiovale/site.git
-git push -u origin master
+Este é um arquivo de testes dentro do GitHub para fins de aprendizagem. 
