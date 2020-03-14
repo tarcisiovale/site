@@ -1,1 +1,2 @@
 Este é um arquivo de testes a ser utilizado no GitHub
+Este é um arquivo alterado para um branch diferente
